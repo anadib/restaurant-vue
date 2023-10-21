@@ -25,7 +25,7 @@ After users have made their selections, they are directed to the checkout page. 
 
 This project was developed with the following technologies:
 
-- [Vue.js(https://v2.vuejs.org/v2/guide/)
+- [Vue.js](https://v2.vuejs.org/v2/guide/)
 - [Vue Router](https://router.vuejs.org/installation.html)
 - [Less](https://lesscss.org/#)
 - [JSON Server](https://www.npmjs.com/package/json-server)

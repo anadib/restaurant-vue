@@ -15,7 +15,7 @@
 
 ## :page_with_curl: About
 
-This repository contains a restaurant webpage built using Vue.js.
+This repository contains a restaurant webpage built using Vue.js 2.
 
 In this project, users can select the items they want, add observations for each item, and specify the quantities they desire. The restaurant data was created using JSON Server.
 
